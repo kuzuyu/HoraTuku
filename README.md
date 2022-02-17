@@ -9,8 +9,11 @@ http://HoraTuku.herokuapp.com/
 
 ## テスト用アカウント
 ・ Basic認証パスワード   0461
+
 ・ Basic認証 ID        kuzukuzu
+
 ・ メールアドレス       test@test
+
 ・ パスワード         sample1
 
 # 利用方法
@@ -22,6 +25,7 @@ http://HoraTuku.herokuapp.com/
 
 ## 投稿された作品を見る
 ・ 作品一覧ページから見たい作品の題名をクリックする。
+
 ・ 検索やカテゴリーを使って検索し、見たい作品をクリックする。
 
 ## 投稿された作品にリアクションを送る
