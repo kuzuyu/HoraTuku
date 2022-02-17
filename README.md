@@ -5,7 +5,7 @@
 ホラー作品が好きな人のためのアプリです。
 
 ## URL
-http://HoraTuku.herokuapp.com/
+完成の進行が進み次第追記します。
 
 ## テスト用アカウント
 ・ Basic認証パスワード   0461
@@ -54,13 +54,7 @@ https://docs.google.com/spreadsheets/d/1X9QqKJ1gtsbs7cnMlku-99JM-ewtvBmocLffR77L
 Ruby / Ruby on Rails / MySQL / Github / Visual Studio Code
 
 # ローカルでの動作方法
-% git clone http://furima-37291.herokuapp.com/
-
-% cd HoraTuku
-
-% bundle install
-
-% yarn install
+完成の進行が進み次第追記します。
 
 # 工夫したポイント
 完成の進行が進み次第追記します。
